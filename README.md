@@ -23,3 +23,6 @@ Cette application combine plusieurs fonctionnalités telles que la reconnaissanc
 
 !!!!!!!!!!!!!!!!!!!  RUN Application !!!!!!!!!!!!!!!!!!!!!!!
 ===>Dirigez-vous vers le répertoire "PROJECT\Cheat Detection App\pfa_interface.py
+
+
+![interface](https://github.com/Bouibauan-Mohamed/IOT-PROJECT/assets/102635115/cc9898a8-3ecf-4071-b88d-cefad5438291)
