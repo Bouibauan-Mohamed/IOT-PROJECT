@@ -1,0 +1,31 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        
+        <file>upload.png</file>
+        <file>visualisation.png</file>
+        <file>unsepervised.png</file>    
+         <file>rein.png</file> 
+           <file>rein2.jpg</file> 
+           <file>rein3.jpg</file> 
+         <file>a11.png</file>
+        <file>back.jpg</file>
+        <file>u.png</file>
+        <file>a.jpg</file>
+        <file>eth1.jpg</file>
+        <file>r1.jpg</file>
+        <file>eth2.jpg</file>
+        <file>eth3.jpg</file>
+        <file>audio.png</file>
+        <file>signe_bag.jpg</file>
+        <file>vrai_bage.png</file>
+        <file>bag.png</file>
+        <file>1.jpg</file>
+        <file>e4.jpg</file>
+        <file>white.png</file>
+		<file>triche.png</file>
+		<file>triche2.jpg</file>
+		<file>uspn.jpg</file>
+		
+    </qresource>
+</RCC>

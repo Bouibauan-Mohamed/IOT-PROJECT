@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen QCM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        .question h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .options {
+            list-style-type: none;
+            padding: 0;
+        }
+        .options li {
+            background: #f9f9f9;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .options li:hover {
+            background: #e9e9e9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Questions de QCM</h1>
+        <div class="question">
+            <h2>Question 1: Quelle est la capitale de la France ?</h2>
+            <ul class="options">
+                <li>A) Paris</li>
+                <li>B) Madrid</li>
+                <li>C) Berlin</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 2: Quel est l'élément chimique le plus abondant dans l'univers ?</h2>
+            <ul class="options">
+                <li>A) Oxygène</li>
+                <li>B) Hydrogène</li>
+                <li>C) Carbone</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 3: Qui a écrit 'Les Misérables' ?</h2>
+            <ul class="options">
+                <li>A) Victor Hugo</li>
+                <li>B) Albert Camus</li>
+                <li>C) Jean-Paul Sartre</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 4: Quel pays est surnommé le pays du Soleil Levant ?</h2>
+            <ul class="options">
+                <li>A) Chine</li>
+                <li>B) Corée du Sud</li>
+                <li>C) Japon</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 5: Quelle année a vu le premier homme marcher sur la lune ?</h2>
+            <ul class="options">
+                <li>A) 1969</li>
+                <li>B) 1972</li>
+                <li>C) 1965</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 6: Quel est le plus long fleuve du monde ?</h2>
+            <ul class="options">
+                <li>A) Nil</li>
+                <li>B) Amazone</li>
+                <li>C) Yangtsé</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 7: Quel est le plus grand océan du monde ?</h2>
+            <ul class="options">
+                <li>A) Atlantique</li>
+                <li>B) Indien</li>
+                <li>C) Pacifique</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 8: Quelle langue est la plus parlée dans le monde ?</h2>
+            <ul class="options">
+                <li>A) Espagnol</li>
+                <li>B) Anglais</li>
+                <li>C) Mandarin</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 9: Quel est le système d'exploitation le plus utilisé sur les smartphones ?</h2>
+            <ul class="options">
+                <li>A) iOS</li>
+                <li>B) Android</li>
+                <li>C) Windows Phone</li>
+            </ul>
+        </div>
+        <div class="question">
+            <h2>Question 10: Qui a peint la Joconde ?</h2>
+            <ul class="options">
+                <li>A) Michel-Ange</li>
+                <li>B) Léonard de Vinci</li>
+                <li>C) Raphaël</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
